@@ -1,0 +1,21 @@
+{
+    "name": "a4tuneintheme",
+    "displayName": "a4tuneintheme",
+    "description": "Better dark mode for web developers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "A Fortune In Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/A Fortune In Theme-color-theme.json"
+            }
+        ]
+    }
+}
