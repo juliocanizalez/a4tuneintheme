@@ -2,9 +2,21 @@
     "name": "a4tuneintheme",
     "displayName": "a4tuneintheme",
     "description": "Better dark mode for web developers",
+    "publisher": "a4tuneinlies",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.54.0"
+    },
+    "icon": "https://res.cloudinary.com/dqaav1s3t/image/upload/v1617325503/a4tuneinTheme/a4tuneinIcon_bhmvus.png",
+    "author": {
+        "name": "Julio Canizalez",
+        "email": "juliocanizalez@outlook.com",
+        "url": "https://juliocanizalez.com"
+    },
+    "repository": {
+        "url": "https://github.com/juliocanizalez/a4tuneintheme",
+        "type": "git"
+
     },
     "categories": [
         "Themes"
