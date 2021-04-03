@@ -39,10 +39,10 @@
 		"progressBar.background": "#ecc26d",
 		"list.activeSelectionBackground": "#011625",
 		"list.activeSelectionForeground": "#6d7485",
-		"list.focusBackground": "#011625",
+		"list.focusBackground": "#0d1016",
 		"list.focusForeground": "#6d7485",
 		"list.highlightForeground": "#ecc26d",
-		"list.hoverBackground": "#011625",
+		"list.hoverBackground": "#0d1016",
 		"list.hoverForeground": "#6d7485",
 		"list.inactiveSelectionBackground": "#011625",
 		"list.inactiveSelectionForeground": "#6d7485",
@@ -192,7 +192,16 @@
 		"terminal.ansiBrightBlue": "#59c2ff",
 		"terminal.ansiBrightMagenta": "#ffee99",
 		"terminal.ansiBrightCyan": "#95e6cb",
-		"terminal.ansiBrightWhite": "#ffffff"
+		"terminal.ansiBrightWhite": "#ffffff",
+		"notificationCenterHeader.background" : "#07080F",
+		"notificationCenter.border": "#07080F",
+		"notifications.background" : "#07080F",
+		"notifications.border" : "#07080F",
+		"notificationToast.border" : "#07080F",
+		"notificationsErrorIcon.foreground" : "#B80000",
+		"notificationsWarningIcon.foreground":"#E1AF4B",
+		"notificationsInfoIcon.foreground": "#D7D7D9"
+
 	},
 	"tokenColors": [
 		
@@ -372,7 +381,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#74e6cd"
+				"foreground": "#1BD180"
 			}
 		},
 		{
@@ -474,7 +483,7 @@
 				"source.go storage.type"
 			],
 			"settings": {
-				"foreground": "#1BD180"
+				"foreground": "#899cf1"
 			}
 		},
 		{
