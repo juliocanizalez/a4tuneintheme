@@ -7,7 +7,7 @@
     "engines": {
         "vscode": "^1.54.0"
     },
-    "icon": "https://res.cloudinary.com/dqaav1s3t/image/upload/v1617325503/a4tuneinTheme/a4tuneinIcon_bhmvus.png",
+    "icon": "https://raw.githubusercontent.com/ProjectsbyJulio/a4tuneintheme-resources/main/VsCodeExt.png",
     "author": {
         "name": "Julio Canizalez",
         "email": "juliocanizalez@outlook.com",
