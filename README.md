@@ -1,15 +1,22 @@
-<img src="https://res.cloudinary.com/dqaav1s3t/image/upload/v1617325503/a4tuneinTheme/a4tuneinIcon_bhmvus.png" style="display:block; margin: 1rem auto; width:40%;">
+<img src="https://raw.githubusercontent.com/ProjectsbyJulio/a4tuneintheme-resources/main/VsCodeExt.png" style="display:block; margin: 1rem auto; width:190px;">
 
-
-A simple dark theme.
-
-Welcome to a4tune ecosystem :eyeglasses:
+Better dark mode for web developers.
 
 **Enjoy!**
 
-### Screenshot
+### Screenshots
+* HTML
 
-![Screenshot]()
+
+![Screenshot1](https://raw.githubusercontent.com/ProjectsbyJulio/a4tuneintheme-resources/main/screenshot1.png)
+
+* JavaScript
+
+![Screenshot2](https://raw.githubusercontent.com/ProjectsbyJulio/a4tuneintheme-resources/main/screenshot2.png)
+
+* CSS
+
+![Screenshot3](https://raw.githubusercontent.com/ProjectsbyJulio/a4tuneintheme-resources/main/screenshot3.png)
 
 > Source code: [juliocanizalez/a4tuneinTheme](https://github.com/juliocanizalez/a4tuneintheme)
 
@@ -17,3 +24,5 @@ Welcome to a4tune ecosystem :eyeglasses:
 * [Website](https://juliocanizalez.com)
 * [Twitter](https://www.twitter.com/julioecanizalez)
 * [Twitch](https://www.twitch.tv/a4tuneinlies)
+
+> [Or buy me a coffee](https://www.paypal.com/paypalme/juliocani)
